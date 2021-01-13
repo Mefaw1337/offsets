@@ -4,8 +4,9 @@ Latest Fortnite offsets here :
 
 
 
-UWorld = 0x972EA80,
-	
+UWorld            -> 0x9796440
+
+	//Mefaw#1337
 
 
 		OwningGameInstance = 0x180,
