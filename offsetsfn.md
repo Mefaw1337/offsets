@@ -9,7 +9,7 @@ Latest Fortnite offsets here :
 	//Mefaw#1337  |  dsc.gg/sippin
 
 
-		UWorld = 0x9795410,
+		UWorld            -> 0x9799F10
 	
 	
 		OwningGameInstance = 0x180,
