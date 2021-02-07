@@ -1,4 +1,5 @@
 # Latest Fortnite Offsets
 
-Dumping it every update ;)
-Fortnite shit game so i dont have latest offsets dm if u have 
+Dumping it every update ;)   [UPDATED TO LAST FN PATCH]
+
+
