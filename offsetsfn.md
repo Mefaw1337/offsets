@@ -6,28 +6,28 @@ Latest Fortnite offsets here :
 
 
 
-	//Mefaw#1337  |  dsc.gg/sippin
+	//Mefaw#7042  |  dsc.gg/samsungfn
 
 
-		UWorld            -> 0x9799F10
 	
+		UWorld = 0x9854F00, //0x972EA80
 	
+
 		OwningGameInstance = 0x180,
 		Levels = 0x138,
 	
 		AActors = 0x98,
 	
-
 		LocalPlayers = 0x38,
 	
 		PlayerController = 0x30,
-
+	
 		ControlRotation = 0x288,
+
 	
 		AcknowledgedPawn = 0x2A0,
 	
 		PlayerState = 0x240,
-
 	
 		RootComponent = 0x130,
 		CustomTimeDilation = 0x98,
@@ -39,9 +39,8 @@ Latest Fortnite offsets here :
 	
 		ComponentToWorld = 0x1C0,
 		StaticMesh = 0x480, //478
-
-
-		CachedWorldSpaceBounds = 0x600,
+	
+		CachedWorldSpaceBounds = 0x5F8,
 	
 		bIsDBNO = 0x552,
 		bIsDying = 0x538,
@@ -52,6 +51,7 @@ Latest Fortnite offsets here :
 		PrimaryPickupItemEntry = 0x2A8,
 	
 		ItemDefinition = 0x18,
+	
 	
 		DisplayName = 0x80,
 		Tier = 0x64,
@@ -68,3 +68,4 @@ Latest Fortnite offsets here :
 		ReloadTime = 0xFC,
 	
 		bAlreadySearched = 0xC41,
+	
