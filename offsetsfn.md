@@ -6,13 +6,13 @@ Latest Fortnite offsets here :
 
 
 
-	//Mefaw#7042  |  dsc.gg/samsungfn
+	//dsc.gg/samsungfn
 
 
 	
-		UWorld = 0x9854F00, //0x972EA80
+		
+		UWorld = 0x9989C10, 
 	
-
 		OwningGameInstance = 0x180,
 		Levels = 0x138,
 	
@@ -45,27 +45,27 @@ Latest Fortnite offsets here :
 		bIsDBNO = 0x552,
 		bIsDying = 0x538,
 		CurrentWeapon = 0x5D0,
-		LastFireTimeVerified = 0x8F0,
-		LastFireTime = 0x8EC,
+		LastFireTimeVerified = 0x900,
+		LastFireTime = 0x8FC,
 	
 		PrimaryPickupItemEntry = 0x2A8,
 	
 		ItemDefinition = 0x18,
 	
-	
 		DisplayName = 0x80,
 		Tier = 0x64,
 	
-		TeamIndex = 0xEB8,
+		TeamIndex = 0x0EC0,
 	
 		WeaponData = 0x378,
 		AmmoCount = 0x974,
 	
-		WeaponStatHandle = 0x7E8,
+		WeaponStatHandle = 0x810,
 	
 		FireStartLoc = 0x878,
 	
 		ReloadTime = 0xFC,
 	
 		bAlreadySearched = 0xC41,
+	
 	
