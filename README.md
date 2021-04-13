@@ -1,5 +1,7 @@
 # Latest Fortnite Offsets
 
-Dumping it every update ;)   [UPDATED TO LAST FN PATCH]
+Dumping it every update ;)   
 
 
+
+PROJECT STOPPED ,  NO MORE OFFSETS
